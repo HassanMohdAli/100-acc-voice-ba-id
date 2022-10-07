@@ -598,7 +598,7 @@ jano99.on("ready", () => {
 
 /////////////////////
 jano100.on("ready", () => {
-  var join = jano100.channels.get(""); /// id voice
+  var join = jano100.channels.get("1027919149420257341"); /// id voice
   if (join) join.join();
 });
 //////// playing or dnd  streaming ////////
@@ -2006,4 +2006,4 @@ jano96.login("");
 jano97.login("");
 jano98.login("");
 jano99.login("");
-jano100.login("");
+jano100.login("MTAyNzkxODU4NjM4NTI4NTIwMg.GQ7mV8.Y1pOAH4EZx4mqTbzgnEUmaUN2Z1ABJQD8oBoVM");
